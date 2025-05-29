@@ -1,0 +1,1 @@
+# Trend2Opportunity-Intelligence-System
