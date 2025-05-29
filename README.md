@@ -33,8 +33,8 @@ Built as part of an advanced AI systems project under the mentorship of Prof. Pu
 ## 🚦 System Architecture
 
 ```mermaid
-graph TD;
-    A[Trend Collector Agent] --> B[Sentiment + Keyword Filter];
-    B --> C[Startup Idea Generator (LLM)];
-    C --> D[Sanity Validator];
-    D --> E[Idea Ranker];
+graph TD
+    A[Trend Collector Agent] --> B[Sentiment & Keyword Filter]
+    B --> C[Startup Idea Generator (LLM)]
+    C --> D[Sanity Validator]
+    D --> E[Idea Ranker]
